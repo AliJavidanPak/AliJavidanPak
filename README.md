@@ -34,5 +34,5 @@ More research-oriented projects will be added as they develop into standalone re
 ## 📫 Connect
 
 * **Email:** [ali_javidanpak@physics.sharif.edu](mailto:ali_javidanpak@physics.sharif.edu)
-* **CV:** [Curriculum Vitae](./AliJavidanPak_CV.pdf)
+* **CV:** [CV](./AliJavidanPak_CV.pdf)
 * **LinkedIn:** [LinkedIn](link-to-linkedin)
