@@ -17,11 +17,11 @@ My interests include **numerical many-body methods, tensor networks, statistical
 
 **Programming & Scientific Computing:** Python, NumPy, SciPy, Matplotlib, SymPy, JAX
 
-**Numerical Methods:** Exact diagonalization, sparse linear algebra, Lanczos methods, Monte Carlo and MCMC
+**Numerical Methods:** Exact diagonalization, sparse linear algebra, Lanczos methods, Monte Carlo and MCMC, MPS, DMRG
 
 **Many-Body Methods:** Tensor networks, MPS, DMRG, entanglement analysis
 
-**Machine Learning:** scikit-learn, TensorFlow/Keras, XGBoost, LightGBM
+**Machine Learning:** scikit-learn, TensorFlow/Keras, PyTorch, XGBoost, LightGBM
 
 **Other:** Mathematica, LaTeX, Git/GitHub
 
